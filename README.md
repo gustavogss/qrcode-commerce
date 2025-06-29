@@ -1,11 +1,11 @@
 # QRCODE COMMERCE
-- Criando um Gerador de QR Codes para E-commerces 
+- Gerador de QR Codes para E-commerces 
 
 ## STACKS
-- Nodejs
-- Chalk
-- Qrcode-terminal
-- Prompt
+- [Nodejs](https://nodejs.org/docs/latest/api/)
+- [Chalk](https://www.npmjs.com/package/chalk)
+- [Qrcode-terminal](https://www.npmjs.com/package/qrcode-terminal)
+- [Prompt](https://www.npmjs.com/package/prompt)
 
 ## FEATURES
 

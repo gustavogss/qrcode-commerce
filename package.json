@@ -2,11 +2,21 @@
   "name": "qrcode-commerce",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node --watch src/index.js"
   },
-  "keywords": ["qrcode", "ecommerce", "node"],
+  "keywords": [
+    "qrcode",
+    "ecommerce",
+    "node"
+  ],
   "author": "Gustavo Souza",
   "license": "ISC",
-  "description": "Criando um Gerador de QR Codes para E-commerces"
+  "description": "Criando um Gerador de QR Codes para E-commerces",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "prompt": "^1.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
 }
