@@ -1,4 +1,4 @@
-# QRCODE COMMERCE
+# QRCODE e PASSWORD GENERATE
 - Gerador de QR Codes e Passwords
 
 ## STACKS
@@ -10,6 +10,7 @@
 ## FEATURES
 - Usuário escolhe entre gerar um QRCode ou uma senha
 - O QRCode pede um link
+- O Password é gerado automaticamente obdecencendo regras que são passadas nas variavéis de ambiemnte
 
 ## Como utilizar 
 - Clone o repositório
