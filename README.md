@@ -8,6 +8,8 @@
 - [Prompt](https://www.npmjs.com/package/prompt)
 
 ## FEATURES
+- Usuário escolhe entre gerar um QRCode ou uma senha
+- O QRCode pede um link
 
 ## Como utilizar 
 - Clone o repositório
