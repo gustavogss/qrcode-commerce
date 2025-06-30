@@ -1,5 +1,5 @@
 {
-  "name": "qrcode-commerce",
+  "name": "qrcode-password-generate",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -13,7 +13,7 @@
   ],
   "author": "Gustavo Souza",
   "license": "ISC",
-  "description": "Criando um Gerador de QR Codes para E-commerces",
+  "description": "Gerador de QR Codes e Passwords",
   "dependencies": {
     "chalk": "^5.4.1",
     "prompt": "^1.3.0",

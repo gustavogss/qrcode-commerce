@@ -1,5 +1,5 @@
 # QRCODE COMMERCE
-- Gerador de QR Codes para E-commerces 
+- Gerador de QR Codes e Passwords
 
 ## STACKS
 - [Nodejs](https://nodejs.org/docs/latest/api/)
