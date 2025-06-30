@@ -1,6 +1,6 @@
 import chalk from "chalk";
 
-export const mainPrompt = [
+export const shemaMain = [
   {
     name:"select",
     description: chalk.yellow("Escolha a ferramenta: (1 - QRCODE ou 2 - PASSWORD)"), 
